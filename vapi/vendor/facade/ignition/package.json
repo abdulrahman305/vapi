@@ -19,7 +19,7 @@
         "@babel/plugin-transform-runtime": "^7.4.4",
         "@babel/preset-env": "^7.4.5",
         "@babel/preset-typescript": "^7.3.3",
-        "@fullhuman/postcss-purgecss": "^1.1.0",
+        "@fullhuman/postcss-purgecss": "^7.0.2",
         "@types/jest": "^24.0.15",
         "@types/lodash": "^4.14.133",
         "babel-loader": "^8.0.6",
